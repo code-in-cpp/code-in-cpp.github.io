@@ -4,4 +4,6 @@ permalink: /ppt_by_mardown_pandoc_reveal/
 layout: default
 ---
 
-# hello world
+# 使用markdown写PPT
+
+
